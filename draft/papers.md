@@ -1,7 +1,7 @@
 papers
 -------
 
-# Consistency
+# consensus
 
 ## Paxos
 
