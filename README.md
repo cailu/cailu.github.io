@@ -1,10 +1,17 @@
 目录
 ---------
 
+## Linux
+
+### Performance
+
+* [主机性能排查](https://github.com/cailu/cailu.github.io/issues/9)
+
 ## 数据库
 
 ### MySQL
 * [MySQL用户管理](https://github.com/cailu/cailu.github.io/issues/5)
+* [MySQL参数理解](https://github.com/cailu/cailu.github.io/issues/10)
 
 ### Redis
 
