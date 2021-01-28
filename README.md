@@ -6,6 +6,7 @@
 ### Performance
 
 * [主机性能排查](https://github.com/cailu/cailu.github.io/issues/9)
+* [60秒分析主机性能](https://github.com/cailu/cailu.github.io/issues/11)
 
 ## 数据库
 
